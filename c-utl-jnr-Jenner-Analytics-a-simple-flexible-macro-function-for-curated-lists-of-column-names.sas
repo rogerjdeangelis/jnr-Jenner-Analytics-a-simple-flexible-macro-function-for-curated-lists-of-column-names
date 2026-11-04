@@ -4,7 +4,7 @@ c:/utl/jnr-Jenner-Analytics-a-simple-flexible-macro-function-for-curated-lists-o
 Jennner Analytics: a macro function to create a macro string containig a curated list of table column names
 
 Too long to post, see
-https://github.com/rogerjdeangelis/c-utl-jnr-Jenner-Analytics-a-simple-flexible-macro-function-for-curated-lists-of-column-names
+https://github.com/rogerjdeangelis/jnr-Jenner-Analytics-a-simple-flexible-macro-function-for-curated-lists-of-column-names
 
 SOAPBOX ON
 
