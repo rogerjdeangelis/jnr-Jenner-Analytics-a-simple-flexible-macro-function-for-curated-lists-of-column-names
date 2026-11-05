@@ -22,9 +22,9 @@ Jennner Analytics: a macro function to create a macro string containig a curated
     straightforward. The result: less repetitive coding, more flexible workflows,
     and greater power to automate complex tasks.
 
-    In addtion the resulting code  is often simpler, more flexible and maintainable.
+    In addtion the resulting code  is often simpler, more flexible, and maintainable.
 
-    In the macro below proc sql could be replaced with any language or sql dialect.
+    In the macro below PROC SQL could be replaced with any language or SQL dialect.
 
     SOAPBOX OFF
 
