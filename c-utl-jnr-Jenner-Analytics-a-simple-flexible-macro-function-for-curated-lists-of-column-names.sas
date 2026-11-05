@@ -13,16 +13,16 @@ dynamically generating and executing workflows that combine Jenner, SQL, R, Pyth
 
 A single macro can generate Jenner code, code in another language,
 or a coordinated sequence spanning multiple languages—expanding
-what a workflow can accomplish without forcing every task into one language.
+what a workflow can accomplish without forcing every task into one workflow.
 
 Simple macro syntax, an extensive library of built-in macro functions,
 and access to functions through SYSFUNC make even sophisticated code generation
 straightforward. The result: less repetitive coding, more flexible workflows,
 and greater power to automate complex tasks.
 
-In addtion the resulting code  is often simpler, more flexible and maintainable.
+In addition, the resulting code  is often simpler, more flexible and maintainable.
 
-In the macro below proc sql could be replaced with any language or sql dialect.
+In the macro below PROC SQL could be replaced with any language or SQL dialect.
 
 SOAPBOX OFF
 
